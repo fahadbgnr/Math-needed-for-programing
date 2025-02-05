@@ -7,7 +7,7 @@ var is happy = false;
 var ishappy = true;
 
 // 3. no quote
-var "address" = "kochu khet";
+var "address" = "kochu khet"; // ata kora jabe na tai lal hoye ache
 
 
 // 4. can not start with a number. but number other than the first letter is allowed
